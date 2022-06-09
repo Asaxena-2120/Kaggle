@@ -10,6 +10,7 @@ Kaggle courses
   - Getting started with Bigquery and SQl
   - Select, From and Where
   - Group By, Having & Count
+  - Order By
 
 
   
